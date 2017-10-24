@@ -9,9 +9,9 @@ if (!defined('MOODLE_INTERNAL')) {
     die('Direct access to this script is forbidden.');
 }
 
-$plugin->version = 2017062900;
+$plugin->version = 2017102400;
 $plugin->component = 'local_navblockhacks';
-$plugin->release = '0.9.0';
+$plugin->release = '1.0.0';
 $plugin->requires = 2016112900;
-$plugin->maturity = MATURITY_BETA;
+$plugin->maturity = MATURITY_STABLE;
 
